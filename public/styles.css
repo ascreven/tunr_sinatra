@@ -3,5 +3,9 @@ body {
 }
 
 a {
+  color: purple;
+}
+
+p a {
   color: white;
 }

@@ -163,9 +163,9 @@ Today, you are going to use Sinatra to listen for HTTP requests and serve HTML (
 
     1. Index (index all artists) - GET "/artists"
 
-    <!-- 2. Show (show particular artist) - GET "/artist/:id" -->
+    <!-- 2. Show (show particular artist) - GET "/artist/:id"
 
-    <!-- 3. New (render form to create new artists) - GET "/artists/new"
+    3. New (render form to create new artists) - GET "/artists/new"
 
     4. Edit (render form to edit existing artist) - GET "/artists/:id/edit"
 
